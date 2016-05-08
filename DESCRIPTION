@@ -1,5 +1,5 @@
 Package: blsAPI
-Version: 0.1.3
+Version: 0.1.4
 Title: Request Data from the U.S. Bureau of Labor Statistics API
 Author: Michael Silva <mike.a.silva@gmail.com>
 Maintainer: Michael Silva <mike.a.silva@gmail.com>
@@ -13,6 +13,6 @@ License: GPL (>= 2)
 LazyData: true
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-03-16 12:37:08 UTC; Michael
+Packaged: 2016-05-08 13:48:27 UTC; mike
 Repository: CRAN
-Date/Publication: 2016-03-16 16:43:41
+Date/Publication: 2016-05-08 17:26:32
